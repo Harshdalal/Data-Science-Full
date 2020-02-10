@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://d24cdstip7q8pz.cloudfront.net/t/t20180406174744/content/common/images/26-weeks-of-data-science-banner.jpg" width="700" title="26-weeks-of-data-science">
-</p>
-
-<br/><br/>
-
 
 # Ensemble Methods
 You will learn more about Ensemble techniques and apply them on your dataset
