@@ -1,5 +1,4 @@
 # Gradient Boosting Machines and XGBoost
-![GitHub Logo](https://s3.ap-south-1.amazonaws.com/greyatom-social/GreyAtom-logo.png)
 
 You will learn more about Gradient Boosting and apply them on your datset
 
